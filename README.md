@@ -1,9 +1,4 @@
 # Uses Case by Factset
-** Please open Main_Open.ipynb for project description & 
-<p align="center">
-  <img width="460" height="300" src="https://github.com/ajar2354/Factset/blob/master/vc_pic.jpg">
-</p>
 
-#</center>![Image description](https://github.com/ajar2354/Factset/blob/master/vc_pic.jpg)</center>
- Content-
- 
+** Please open Main_Open.ipynb for project description & 
+![Image description](link-tohttps://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphotos%2Fventure-capital&psig=AOvVaw0AsaDzTCYOY393n3Rnl-_K&ust=1583220997938000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLiIq_yj--cCFQAAAAAdAAAAABADimage)
